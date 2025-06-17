@@ -3,3 +3,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1ng0rez)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>
+  <a href="#">
+    <img width="400" align="top" src="https://gist.githubusercontent.com/r1ng0rez/56369861fe6300838cf3f8f308b40c54/raw/github-metrics.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="https://gist.githubusercontent.com/r1ng0rez/af3eb4b2a2319ecf2821d475966bb50b/raw/github-metrics.svg" />
+  </a>
+</p>
