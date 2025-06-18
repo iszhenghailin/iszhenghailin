@@ -2,6 +2,7 @@
 16 years-old Threat Researcher on Memory-Security / General-Security-Research. Member of [SecureNexusLab](SecureNexusLab.github.io), The main contribution is to submit two common-system security vulnerabilities on the [CNVD](cnvd.org.cn), and also submit security vulnerabilities in other bug bounties such as [edusrc](src.sjtu.edu.cn).... (Experience at [Linkedin Project Description](https://www.linkedin.com/in/hailin-zheng-88810b360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) Blog at [R1ng0rez's Blog](r1ng0rez.github.io)).
 
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=r1ng0rez&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
 - 目前主要学习二进制安全，目前正在学习Pwn
 - 以前学Web的，比赛只会做crypto和misc
