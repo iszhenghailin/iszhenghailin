@@ -9,6 +9,7 @@
 - 对`AI+Security`、`IoT Sec`以及`Browser`都很感兴趣(啥都不会啥都想学)
 - 基础差还懒，想成为肝帝
 
+(下面不是我的Skills。是想学的Skills)
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
 # My Future
