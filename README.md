@@ -5,7 +5,7 @@
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
 - 目前主要学习二进制安全，目前正在学习Pwn
-- 以前学Web的，比赛只会做crypto和misc
+- 以前学Web的，比赛只会做crypto和misc的签到
 - 对`AI+Security`、`IoT Sec`以及`Browser`都很感兴趣(啥都不会啥都想学)
 - 基础差还懒，想成为肝帝
 - 梦想成为Full Stack Devloper / CTFer
