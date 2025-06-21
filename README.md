@@ -14,7 +14,7 @@ Blog at [r1ng0rez's Blog](https://r1ng0rez.github.io)
 - 梦想成为Full Stack Devloper / CTFer
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,redis,arduino,vscode,visualstudio,idea,pycharm,obsidian,github,ps,gmail)]
+![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,redis,arduino,vscode,visualstudio,idea,pycharm,obsidian,github,ps,gmail)
 
 # My Future
 
