@@ -22,7 +22,7 @@ Blog at [r1ng0rez's Blog](https://r1ng0rez.github.io)
   <tr>
     <td>🥰恭喜您成为第</td>
     <td><img src="https://profile-counter.glitch.me/r1ng0rez/count.svg" alt="" /></td>
-    <td>位访客，感谢您的关注和支持~😍</td>
+    <td>位访客，感谢您的关注和支持~</td>
   </tr>
 </table>
 
