@@ -17,6 +17,7 @@ Blog at [r1ng0rez's Blog](https://r1ng0rez.github.io)
 ![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,redis,arduino,vscode,visualstudio,idea,pycharm,obsidian,github,ps,gmail)
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ng0rez&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
+
 # My Future
 
 <table>
