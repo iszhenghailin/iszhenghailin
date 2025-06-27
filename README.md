@@ -3,7 +3,7 @@ I'am a senior high school student of Dongguan Middle School-SongshanLake School(
 
 Member of [SecureNexusLab](SecureNexusLab.github.io)
 
-Blog at [r1ng0rez's Blog](https://keyboard-x.github.io)
+Blog at [Keyboard's Blog](https://keyboard-x.github.io)
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=keyboard-x&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
