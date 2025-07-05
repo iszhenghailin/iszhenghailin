@@ -7,10 +7,9 @@ Blog at [Keyboard's Blog](https://r1ng0rez.github.io)
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=shiroikeyboard&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
-- 对二进制安全很感兴趣，目前正在学习Pwn
+- 对二进制安全很感兴趣，目前正在学习Pwn / Re
 - 以前学Web的，比赛只会做crypto和misc的签到
-- 对`AI+Security`、`IoT Sec`以及`Browser`都很感兴趣(啥都不会啥都想学)
-- 基础差还懒，想成为肝帝
+- 对物联网漏洞挖掘很感兴趣
 - 梦想成为Full Stack Devloper / CTFer
 
 # Skills
