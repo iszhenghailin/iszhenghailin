@@ -3,8 +3,8 @@ I'am a senior high school student of Dongguan Middle School-SongshanLake School(
 
 Member of [SecureNexusLab](SecureNexusLab.github.io), Founder of 08vuln Security Lab
 
-Blog at [Keyboard's Blog](https://r1ng0rez.github.io)
-<img align='right' src="https://github-readme-stats.zohan.tech/api?username=shiroikeyboard&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+Blog at [Keyboard's Blog](https://z4k0r.github.io)
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=z4k0r&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
 - 对二进制安全很感兴趣，目前正在学习Pwn / Re
@@ -15,8 +15,9 @@ Blog at [Keyboard's Blog](https://r1ng0rez.github.io)
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,redis,arduino,vscode,visualstudio,idea,pycharm,obsidian,github,ps,gmail)
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroikeyboard&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4k0r&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=z4k0r)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # My Future
 
 <table>
