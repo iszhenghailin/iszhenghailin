@@ -17,7 +17,7 @@ Blog at [Keyboard's Blog](https://z4k0r.github.io)
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4k0r&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=z4k0r)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=z4k0r&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # My Future
 
 <table>
